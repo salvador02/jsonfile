@@ -1,0 +1,26 @@
+[
+    {
+        "student_number": 1,
+        "name": "John Doe",
+        "age": 17,
+        "Course": "Computer Science"
+    },
+    {
+        "student_number": 2,
+        "name": "Joan Dee",
+        "age": 23,
+        "Course": "Computer Animation"
+    },
+    {
+        "student_number": 3,
+        "name": "Jim Doeh",
+        "age": 19,
+        "Course": "Industrial Science"
+    },
+    {
+        "student_number": 4,
+        "name": "John Dohn",
+        "age": 37,
+        "Course": "Political Science"
+    }
+]
